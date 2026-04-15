@@ -31,6 +31,6 @@ Global Climate Change Analysis – Statistical analysis of climate indicators us
 ### MATLAB
 Inventory Management System – MATLAB GUI-based system for tracking inventory and stock levels.
 
-## 🛠 Technologies
+## Technologies
 C++, Python, MATLAB, R, MySQL, Data Structures, Algorithms, Operating Systems, Predictive Analytics
 
